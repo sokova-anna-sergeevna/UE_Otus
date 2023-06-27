@@ -16,4 +16,4 @@ Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/PxPvdSDK_x64.dll	2023-05-30T20:17
 Engine/Binaries/ThirdParty/Vorbis/Win64/VS2015/libvorbis_64.dll	2023-05-30T20:18:19.096Z
 Engine/Binaries/ThirdParty/Vorbis/Win64/VS2015/libvorbisfile_64.dll	2023-05-30T20:18:19.097Z
 Engine/Binaries/ThirdParty/Windows/XAudio2_9/x64/xaudio2_9redist.dll	2023-05-30T22:26:42.205Z
-OtusProjSokova.exe	2023-06-26T15:24:29.543Z
+OtusProjSokova.exe	2023-06-27T07:01:41.254Z
